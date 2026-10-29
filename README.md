@@ -63,4 +63,4 @@
 ### Contact
 
 - GitHub: [github.com/AbusiveJew](https://github.com/AbusiveJew)
-- Discord: gal.sys
+- Discord: retardedlawyer
